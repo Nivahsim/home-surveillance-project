@@ -9,6 +9,9 @@ The system combines several state-of-the-art computer vision models:
 - **SAM2** — for object segmentation
 - **MediaPipe Pose** — for human pose estimation
 
+(![Demo photo](https://github.com/user-attachments/assets/7de643fa-cd9e-4054-a4e5-da5a440a6df6)
+
+
 ---
 
 ## Features
