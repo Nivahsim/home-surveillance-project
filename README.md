@@ -36,5 +36,6 @@ pip install -r requirements.txt
 
 Run the main application:
 
-``` python3 src/run_pipeline.py
+``` python3 
+src/run_pipeline.py
 ```
