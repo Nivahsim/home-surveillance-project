@@ -1,5 +1,5 @@
-./cat-classifier/dataset/*
-./cat-classifier/data.yaml
+cat-classifier/dataset/*
+cat-classifier/data.yaml
 
-./fire-detector/dataset/*
-./fire-deetctor/data.yaml
+fire-detector/dataset/*
+fire-detector/data.yaml
