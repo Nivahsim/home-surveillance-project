@@ -27,13 +27,14 @@ The system combines several state-of-the-art computer vision models:
 ```bash
 git clone https://github.com/your_username/home-surveillance-project.git
 cd home-surveillance-project
-
+```
 2. Install dependencies:
-
+```
 pip install -r requirements.txt
-
+```
 ## Usage
 
 Run the main application:
 
 ``` python3 src/run_pipeline.py
+```
